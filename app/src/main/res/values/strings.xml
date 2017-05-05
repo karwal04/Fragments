@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="foo_text">Your are in Foo</string>
+    <string name="boo_text">Yippeee success</string>
+</resources>
